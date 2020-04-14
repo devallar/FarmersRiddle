@@ -1,3 +1,5 @@
+##Copyright 2020 Duval Weerakoone | The Nescius##
+
 # The Farmer's Problem
 # A Farmer goes to the market with $100 to spend. Cows cost $10/each, Pigs cost $3/each and sheep cost $0.5/each
 # The farmer buys from the cattle dealer, pig dealer and the sheep dealer. She spends exactly $100 and returns with 100 animals.
